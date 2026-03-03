@@ -53,7 +53,15 @@ I am a product leader focused on bridging the gap between technical infrastructu
 
 # Detailed Portfolio
 
-[![View Portfolio](https://img.shields.io/badge/View_Live_Portfolio-Check_it_out-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/rajeshkanna-pm/As-A-Product-Manager/blob/d705ebe6ed5b949f584626c25eefc74e108b729f/Portfolio.md)
+[![View Portfolio](https://img.shields.io/badge/View_Complete_Portfolio-Check_it_out-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/rajeshkanna-pm/As-A-Product-Manager/blob/d705ebe6ed5b949f584626c25eefc74e108b729f/Portfolio.md)
+
+# Some Product feature Blogs (IBM Turbonomic)
+
+* [Cloud Scale Group Services Parking](https://community.ibm.com/community/user/blogs/rajesh-kanna/2025/10/08/turbonomic-parking-for-scale-group-family)
+* [Cloud Workloads Parking](https://community.ibm.com/community/user/blogs/rajesh-kanna/2025/07/10/ordered-parking-of-cloud-workloads-workloadset)
+* [Cloud Kubernetes Optimization](https://community.ibm.com/community/user/blogs/rajesh-kanna/2025/07/04/introducing-optimizing-cloud-costs-through-aks)
+* [RBAC expansion for scalability](https://community.ibm.com/community/user/blogs/rajesh-kanna/2025/05/13/rbac-for-turbonomic-parking-expansion-of-roles)
+* [React/IBM Carbon UX migration](https://community.ibm.com/community/user/blogs/rajesh-kanna/2025/04/02/parking-policies-ibm-carbon)
 
 > **Note:** For a full interactive browser experience with high-fidelity visuals, please visit the live portfolio linked above.
 
