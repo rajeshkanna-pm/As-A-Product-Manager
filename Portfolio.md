@@ -88,7 +88,6 @@
   | **Revenue** | DTC Growth (YoY) | Baseline | **+$1.5M Incremental** |
   | **Inventory** | Stock-out Recovery | High Loss Rate | **Optimized Quarterly** |
 
-  > **Impact Note:** CREST was a primary driver in strategic shift toward a 50% Direct-to-Consumer (DTC) sales mix.
 </details>
 
 ****************************************************************************************************************
@@ -138,5 +137,5 @@
   | **Revenue** | DTC Growth (YoY) | Baseline | **+$1.5M Incremental** |
   | **Inventory** | Stock-out Recovery | High Loss Rate | **Optimized Quarterly** |
 
-  > **Impact Note:** CREST was a primary driver in strategic shift toward a 50% Direct-to-Consumer (DTC) sales mix.
+
 </details>
