@@ -18,6 +18,8 @@
   **4. Inventory & Catalog:** Provides real-time access to the full product catalog and stock levels across multiple locations.
   **5. Store Operations:** Streamlines daily tasks like opening/closing procedures and reporting into a single dashboard.
 
+   <b>Click to view the Success and Adoption metrics of the Product</b>
+
   ### Success Metrics
   * Adoption:
     35% of active users increase on daily basis
