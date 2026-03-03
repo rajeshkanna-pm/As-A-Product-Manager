@@ -51,6 +51,12 @@ I am a product leader focused on bridging the gap between technical infrastructu
 
 ---
 
+# Detailed Portfolio
+
+[![View Portfolio](https://img.shields.io/badge/View_Live_Portfolio-Check_it_out-blue?style=for-the-badge&logo=googlechrome&logoColor=white)]([https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/](https://github.com/rajeshkanna-pm/As-A-Product-Manager/blob/20c5ecdbf01e01f82857708cf25c4a783cd13f8b/index.md))
+
+> **Note:** For a full interactive browser experience with high-fidelity visuals, please visit the live portfolio linked above.
+
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-kanna/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:berajeshkanna@gmail.com)
