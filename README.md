@@ -1,4 +1,5 @@
-# Product-Manager & Engagement Lead -- Customer Relationship and Engagement Software Tool (CREST) for Manufacturing and Retail Business to Enterprise users & customers
+# Product-Manager & Engagement Lead -- Customer Relationship and Engagement Software Tool (CREST)
+For Manufacturing and Retail Business to Enterprise users & customers
 <details>
   <summary> <b>Click to view the Business Objective and Product Features</b></summary>
 
@@ -13,15 +14,18 @@
 
   ### Features
   **1. Customer Relationship Management (CRM):** Allows store associates to access customer profiles, purchase      history, and loyalty data to provide personalized service
+  
   **2. Omnichannel Engagement:** Facilitates "Clienteling" (personalized messaging between associates and customers) to drive loyalty and repeat visits
-  **3. Point of Sale (POS) & Checkout:** A mobile-first checkout system that allows employees to process transactions anywhere on the sales floor.
-  **4. Inventory & Catalog:** Provides real-time access to the full product catalog and stock levels across multiple locations.
+  
+  **3. Point of Sale (POS) & Checkout:** A mobile-first checkout system that allows employees to process transactions anywhere on the sales floor
+  
+  **4. Inventory & Catalog:** Provides real-time access to the full product catalog and stock levels across multiple locations
+  
   **5. Store Operations:** Streamlines daily tasks like opening/closing procedures and reporting into a single dashboard.
 
-   <summary> <b>Click to view the Success and Adoption metrics of the Product</b></summary>
+  <summary> <b>Click to view the Success and Adoption metrics of the Product</b></summary>
 
    
-
   ### Success Metrics
   * Adoption:
     35% of active users increase on daily basis
