@@ -1,4 +1,4 @@
-# As-A-Product-Manager & Engagement Lead -- Customer Relationship and Engagement Software Tool (CREST) for Manufacturing and Retail Business to Enterprise users & customers
+# Product-Manager & Engagement Lead -- Customer Relationship and Engagement Software Tool (CREST) for Manufacturing and Retail Business to Enterprise users & customers
 <details>
   <summary> <b>Click to view the Business Objective and Product Features</b></summary>
 
@@ -18,7 +18,9 @@
   **4. Inventory & Catalog:** Provides real-time access to the full product catalog and stock levels across multiple locations.
   **5. Store Operations:** Streamlines daily tasks like opening/closing procedures and reporting into a single dashboard.
 
-   <b>Click to view the Success and Adoption metrics of the Product</b>
+   <summary> <b>Click to view the Success and Adoption metrics of the Product</b></summary>
+
+   
 
   ### Success Metrics
   * Adoption:
