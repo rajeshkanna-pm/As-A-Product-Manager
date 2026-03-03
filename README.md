@@ -13,13 +13,13 @@ I am a product leader focused on bridging the gap between technical infrastructu
 * **Core Product:** Led the "Application-to-Infrastructure" supply chain view, Parking recommendations, automating resource decisions to ensure SLO compliance.
 * **Innovation:** Launched AI/ML-driven resource scheduling MVPs to automate cloud power states.
 
-### **CREST (Deckers Brands)** | *Product Manager* (2019 – 2022)
+### **CREST (Cognizant)** | *Product Manager/Engagement Lead* (2019 – 2022)
 **Focus:** Customer Relationship & Retail Orchestration
 * **Strategic Impact:** Enabled a **$1.5M YoY DTC revenue increase** by unifying fragmented retail software.
 * **Core Product:** Delivered a mobile-first "Endless Aisle" and POS solution used by 3,000+ global store associates.
 * **Efficiency:** Reduced checkout times by **2.5x**, untethering associates from traditional stationary desks.
 
-### **CREST (Deckers Brands)** | *Product Lead* (2012 – 2019)
+### **POS, CRM (Cognizant)** | *Product Implementation Lead* (2012 – 2019)
 **Focus:** Retail, Manufacturing and Store Operations
 * **Strategic Impact:** Global Product Implementation (POS, CRM) **1500+ retail stores** multiple POS Products
 * **Core Product:** Delivered complex system integrations along with Enterprise POS, CRM implementation scoped 8000+ end users
