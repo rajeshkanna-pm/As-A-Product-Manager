@@ -19,6 +19,11 @@ I am a product leader focused on bridging the gap between technical infrastructu
 * **Core Product:** Delivered a mobile-first "Endless Aisle" and POS solution used by 3,000+ global store associates.
 * **Efficiency:** Reduced checkout times by **2.5x**, untethering associates from traditional stationary desks.
 
+### **CREST (Deckers Brands)** | *Product Lead* (2012 – 2019)
+**Focus:** Retail, Manufacturing and Store Operations
+* **Strategic Impact:** Global Product Implementation (POS, CRM) **1500+ retail stores** multiple POS Products
+* **Core Product:** Delivered complex system integrations along with Enterprise POS, CRM implementation scoped 8000+ end users
+* **Efficiency:** Digital modernization to improve operational efficiency, customer experience and future ready technology platform
 ---
 
 ## 📊 Core Competencies & Metrics
@@ -27,14 +32,15 @@ I am a product leader focused on bridging the gap between technical infrastructu
 | :--- | :--- | :--- |
 | **FinOps & Cloud Cost** | Kubernetes & Hybrid Cloud | **247% ROI** (Turbonomic) |
 | **Retail Tech (DTC)** | API-Driven Architectures | **75% Adoption** (CREST) |
-| **Agentic AI Ops** | Pendo & Thoughtspot Telemetry | **$1.5M YoY Growth** (Retail) |
+| **Point of Sales, CRM** | ERP, Integrations | **$1.5M YoY Growth** (Retail) |
 
 ---
 
 ## 🛠 Tech Stack
-* **Cloud & Infra:** AWS, Azure, GCP, Kubernetes (EKS/AKS), IBM Power.
-* **Product Tools:** JIRA, Confluence, Miro, Pendo, Thoughtspot.
-* **E-Commerce:** Salesforce Service Cloud, CoreMedia, Legacy POS systems.
+* **Cloud & Infra:** AWS, Azure, GCP, Kubernetes (EKS/AKS)
+* **Product Tools:** JIRA, Confluence, Miro, Figma, Pendo, Thoughtspot
+* **Products:** Salesforce Service Cloud, Wincor, Aptos, Oracle POS, CRM, JDA Inventory, Safety Stock
+* **Integrations:** SAP Retail, AS400, Oracle Retail, Order management & Fulfilment, Finance & Tax 
 
 ---
 
