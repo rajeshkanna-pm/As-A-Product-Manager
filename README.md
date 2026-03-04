@@ -91,11 +91,7 @@ I am a product leader focused on bridging the gap between technical infrastructu
 
 </details>
 
-<details>
-<summary><b>📊 Success Metrics & Business Impact</b></summary>
-
-Total Customers: ~500+ 
-Larger Organizations, Fed/Government, SMB
+<br />
 
 | Category | Metric / KPI | Benchmark Result | Business Impact |
 | :--- | :--- | :--- | :--- |
@@ -103,7 +99,7 @@ Larger Organizations, Fed/Government, SMB
 | **Cost Savings** | Cloud Cost Reduction | 25% | **~35-45% avg savings from Direct Cloud bill** |
 | **Engagement** | Action Convertion | 5% Increase YoY | **~3% executed actions from actionable insights** |
 
-</details>
+<br />
 
 ****************************************************************************************************************
 
@@ -137,11 +133,7 @@ Deckers developed CREST to solve three main pain points:
 
 </details>
 
-<details>
-<summary><b>📊 Success Metrics & Business Impact</b></summary>
-
-Total Countries: 12 (NA, Europe, APAC)
-Total Store Users: 3000+
+<br />
 
 | Category | Metric / KPI | Legacy State | CREST Result |
 | :--- | :--- | :--- | :--- |
@@ -151,7 +143,7 @@ Total Store Users: 3000+
 | **Revenue** | DTC Growth (YoY) | Baseline | **+$1.5M Incremental** |
 | **Inventory** | Stock-out Recovery | High Loss Rate | **Optimized Quarterly** |
 
-</details>
+<br />
 
 ****************************************************************************************************************
 
@@ -185,11 +177,7 @@ Deckers developed CREST to solve three main pain points:
 
 </details>
 
-<details>
-<summary><b>📊 Success Metrics & Business Impact</b></summary>
-
-Total Countries: 12 (NA, Europe, APAC)
-Total Store Users: 3000+
+<br />
 
 | Category | Metric / KPI | Legacy State | CREST Result |
 | :--- | :--- | :--- | :--- |
@@ -199,7 +187,6 @@ Total Store Users: 3000+
 | **Revenue** | DTC Growth (YoY) | Baseline | **+$1.5M Incremental** |
 | **Inventory** | Stock-out Recovery | High Loss Rate | **Optimized Quarterly** |
 
-</details>
 ---
 
 ## ✍️ Some Featured Product Blogs (IBM Turbonomic)
