@@ -63,14 +63,14 @@ I am a product leader focused on bridging the gap between technical infrastructu
 
   ## Customer: Fortune 500 Companies, large to SMB Enterprise users
 
-  ## Product Objective
-  Sustainable IT Operations with Hybrid Cloud and native environments through converting actionable optimization insights into executed actions
+  **Product Objective**
+  * **Sustainable IT** Operations with Hybrid Cloud and native environments through converting actionable optimization insights into executed actions
 
-  ## Problem Statements
+  **Problem Statements**
   
-  1. Operationalizing FinOps: From Insights to Actions
-  2. Availability, Performance and Compliance driven: Balancing IT resource performance and cost
-  3. Sustainable IT: Managing cloud waste, Reporting Carbon emissions spent & reductions
+  1. **Operationalizing FinOps**: From Insights to Actions
+  2. **Availability, Performance and Compliance driven**: Balancing IT resource performance and cost
+  3. **Sustainable IT**: Managing cloud waste, Reporting Carbon emissions spent & reductions
 
   ## Features worked on
   **1. Application-to-Infrastructure" Supply Chain:** Discovering the Cloud and native environment targets and stitching them in the Supply chain view for better visibility & decision making by criticality
