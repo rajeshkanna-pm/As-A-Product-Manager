@@ -73,18 +73,18 @@ I am a product leader focused on bridging the gap between technical infrastructu
 <summary><b>Click to view the Business Objective and Product Features</b></summary>
 <br />
 
-### Customer: Fortune 500 Companies, large to SMB Enterprise users
+## Customer: Fortune 500 Companies, large to SMB Enterprise users
 
-### Product Objective
+## Product Objective
 * Sustainable IT Operations with Hybrid Cloud and native environments through converting actionable optimization insights into executed actions
 
-### Problem Statements
+## Problem Statements
 1. **Operationalizing FinOps**: From Insights to Actions
 2. **Availability, Performance and Compliance driven**: Balancing IT resource performance and cost
 3. **Sustainable IT**: Managing cloud waste, Reporting Carbon emissions spent & reductions
 
-### Features worked on
-**1. Application-to-Infrastructure" Supply Chain:** Discovering the Cloud and native environment targets and stitching them in the Supply chain view for better visibility & decision making by criticality
+## Features worked on
+**1. Application-to-Infrastructure Supply Chain:** Discovering the Cloud and native environment targets and stitching them in the Supply chain view for better visibility & decision making by criticality
 
 **2. Smart Parking for Cloud Resources:** Dynamic schedules for managing the power state of cloud resources based on their utilization
 
