@@ -62,138 +62,142 @@ I am a product leader focused on bridging the gap between technical infrastructu
 * 💡 **Mentorship:** Passionate about coaching junior PMs on value-driven product management.
 
 ---
+# Detailed Portfolio
 
-# 📂 Detailed Portfolio
-
-## 2022-2025: IBM Turbonomic
-
-**Sr. Product Manager — Hybrid Cloud Resource and Cost Optimization (FinOps)**
+# 2022-2025 
+# Sr Product-Manager -- IBM Turbonomic Hybrid Cloud Resource and Cost Optimization (FinOps)
 
 <details>
-<summary><b>🎯 Click to view Business Objective & Product Features</b></summary>
+<summary><b>Click to view the Business Objective and Product Features</b></summary>
 
-### Customer
-
-Fortune 500 Companies, large to SMB Enterprise users.
+### Customer: Fortune 500 Companies, large to SMB Enterprise users
 
 ### Product Objective
-
-* **Sustainable IT Operations** with Hybrid Cloud and native environments through converting actionable optimization insights into executed actions.
+* Sustainable IT Operations with Hybrid Cloud and native environments through converting actionable optimization insights into executed actions
 
 ### Problem Statements
+1. **Operationalizing FinOps**: From Insights to Actions
+2. **Availability, Performance and Compliance driven**: Balancing IT resource performance and cost
+3. **Sustainable IT**: Managing cloud waste, Reporting Carbon emissions spent & reductions
 
-1. **Operationalizing FinOps**: Moving from Insights to Actions.
-2. **Availability, Performance, and Compliance**: Balancing IT resource performance and cost.
-3. **Sustainable IT**: Managing cloud waste; reporting Carbon emissions spent & reductions.
+### Features worked on
+**1. Application-to-Infrastructure" Supply Chain:** Discovering the Cloud and native environment targets and stitching them in the Supply chain view for better visibility & decision making by criticality
 
-### Features Worked On
+**2. Smart Parking for Cloud Resources:** Dynamic schedules for managing the power state of cloud resources based on their utilization
 
-* **Application-to-Infrastructure Supply Chain**: Discovering Cloud/native targets and stitching them in a Supply chain view for visibility by criticality.
-* **Smart Parking for Cloud Resources**: Dynamic schedules for managing the power state of cloud resources based on utilization.
-* **AI/ML MVP for Resources Scheduling**: Unsupervised Machine Learning for resource power state management and scheduling recommendations.
-* **Cloud Compute Resources Optimization**: GPU/CPU utilization-based right-sizing actions; tracking conversion using Telemetry (Thoughtspot, Pendo).
+**3. AI/ML MvP for resources scheduling:** Unsupervised Machine learning algorithm based resource power state management & scheduling recommendations
+
+**4. Cloud Compute resources optimization:** GPU and CPU utilization based resource right sizing actions recommendation, tracking the executed actions conversion using Telemetry tools (Thoughtspot, Pendo)
 
 </details>
 
 <details>
-<summary><b>📈 Success Metrics & Business Impact</b></summary>
+<summary><b>📊 Success Metrics & Business Impact</b></summary>
 
-**Total Customers:** 500+ (Large Orgs, Fed/Gov, SMB)
+Total Customers: ~500+ 
+Larger Organizations, Fed/Government, SMB
 
 | Category | Metric / KPI | Benchmark Result | Business Impact |
-| --- | --- | --- | --- |
-| **Revenue** | Total ROI | ~247% since 2022 | **3x cost savings from initial investment** |
+| :--- | :--- | :--- | :--- |
+| **Revenue** | Total ROI | ~247% since 2022 | **3x times cost saving from initial investment** |
 | **Cost Savings** | Cloud Cost Reduction | 25% | **~35-45% avg savings from Direct Cloud bill** |
-| **Engagement** | Action Conversion | 5% Increase YoY | **~3% executed actions from actionable insights** |
+| **Engagement** | Action Convertion | 5% Increase YoY | **~3% executed actions from actionable insights** |
 
 </details>
 
----
+****************************************************************************************************************
 
-## 2019-2022: CREST (Cognizant)
-
-**Product Manager & Engagement Lead — Customer Relationship and Engagement Software Tool**
+# 2019-2022 
+# Product-Manager & Engagement Lead -- Customer Relationship and Engagement Software Tool (CREST)
 
 <details>
-<summary><b>🎯 Click to view Business Objective & Product Features</b></summary>
+<summary><b>Click to view the Business Objective and Product Features</b></summary>
 
-### Customer
-
-Global Manufacturing and Retail Business to Enterprise users & customers.
+### Customer: Global Manufacturing and Retail Business to Enterprise users & customers
 
 ### Product Objective
-
-Serve as an all-in-one retail orchestration platform designed to replace fragmented software with a single, mobile-first interface for store associates.
+CREST to serve as an all-in-one retail orchestration platform. Design to replace fragmented thirdparty software with a single, mobile-first interface for store associates
 
 ### Problem Statements
+Deckers developed CREST to solve three main pain points:
+1. Complexity: Reducing the number of different apps a store clerk needs to learn.
+2. Customer Experience: Moving the "transaction" away from a stationary desk and making it part of a fluid conversation on the floor.
+3. Data Synergy: Ensuring that an "online" customer is recognized the moment they walk into a "physical" store
 
-1. **Complexity**: Reducing the number of apps a store clerk needs to learn.
-2. **Customer Experience**: Moving transactions from stationary desks to fluid conversations on the floor.
-3. **Data Synergy**: Recognizing "online" customers the moment they walk into a "physical" store.
+### Features worked on
+**1. Customer Relationship Management (CRM):** Allows store associates to access customer profiles, purchase history, and loyalty data to provide personalized service
 
-### Features Worked On
+**2. Omnichannel Engagement:** Facilitates "Clienteling" (personalized messaging between associates and customers) to drive loyalty and repeat visits
 
-* **CRM**: Access to customer profiles, purchase history, and loyalty data.
-* **Omnichannel Engagement**: Facilitating "Clienteling" (personalized messaging) to drive loyalty.
-* **Mobile POS & Checkout**: Processing transactions anywhere on the sales floor.
-* **Inventory & Catalog**: Real-time access to stock levels across multiple locations.
-* **Store Operations**: Streamlining daily tasks and reporting into a single dashboard.
+**3. Point of Sale (POS) & Checkout:** A mobile-first checkout system that allows employees to process transactions anywhere on the sales floor
+
+**4. Inventory & Catalog:** Provides real-time access to the full product catalog and stock levels across multiple locations
+
+**5. Store Operations:** Streamlines daily tasks like opening/closing procedures and reporting into a single dashboard.
 
 </details>
 
 <details>
-<summary><b>📈 Success Metrics & Business Impact</b></summary>
+<summary><b>📊 Success Metrics & Business Impact</b></summary>
 
-**Scale:** 12 Countries (NA, Europe, APAC) | 3,000+ Store Users
+Total Countries: 12 (NA, Europe, APAC)
+Total Store Users: 3000+
 
 | Category | Metric / KPI | Legacy State | CREST Result |
-| --- | --- | --- | --- |
+| :--- | :--- | :--- | :--- |
 | **User Adoption** | Daily Active Users (DAU) | ~40% (Fragmented) | **75%+ (Unified)** |
 | **Efficiency** | Checkout Speed | 5+ Minutes | **< 2 Minutes (2.5x Faster)** |
-| **Engagement** | Clienteling Outreach | Manual | **25% Increase in Reach** |
+| **Engagement** | Clienteling Outreach | Manual/Customer Service | **25% Increase in Reach** |
 | **Revenue** | DTC Growth (YoY) | Baseline | **+$1.5M Incremental** |
 | **Inventory** | Stock-out Recovery | High Loss Rate | **Optimized Quarterly** |
 
 </details>
 
----
+****************************************************************************************************************
 
-## 2013 - 2018: Retail & CG Point of Sale
-
-**Product Implementation Lead — POS & CRM Implementation**
+# 2013 - 2018
+# Product Implementation Lead -- Retail & CG Point of Sale, CRM
 
 <details>
-<summary><b>🎯 Click to view Business Objective & Product Features</b></summary>
+<summary><b>Click to view the Business Objective and Product Features</b></summary>
 
-### Customer
-
-Global Duty-Free retailer, Global Apparel Manufacturer, and Retailer.
+### Customer: Global Duty Free retailer, Global Apparels Manufacturer and Retailer
 
 ### Product Objective
-
-Digital Modernization of retail stores and operations via POS/CRM implementation with Microservices-based System Integrations.
+Retail Stores and Operations Digital Modernization with POS, CRM Implementation with Microservices based System Integrations
 
 ### Problem Statements
+Deckers developed CREST to solve three main pain points:
+1. Complexity: Reducing the number of different apps a store clerk needs to learn.
+2. Customer Experience: Moving the "transaction" away from a stationary desk and making it part of a fluid conversation on the floor.
+3. Data Synergy: Ensuring that an "online" customer is recognized the moment they walk into a "physical" store
 
-1. **Legacy Modernization**: Transitioning from monolithic desktop-bound systems.
-2. **Unified Commerce**: Bridging the gap between warehouse inventory and store-front availability.
+### Features worked on
+**1. Customer Relationship Management (CRM):** Allows store associates to access customer profiles, purchase history, and loyalty data to provide personalized service
 
-### Features Worked On
+**2. Omnichannel Engagement:** Facilitates "Clienteling" (personalized messaging between associates and customers) to drive loyalty and repeat visits
 
-* **System Integration**: Architected real-time data flow between POS and SAP Retail/AS400 backends.
-* **Global Rollouts**: Led multi-country implementation involving language, tax, and currency localizations.
-* **Mobile UX**: Spearheaded the first-generation mobile price-check and comparison kiosks.
+**3. Point of Sale (POS) & Checkout:** A mobile-first checkout system that allows employees to process transactions anywhere on the sales floor
+
+**4. Inventory & Catalog:** Provides real-time access to the full product catalog and stock levels across multiple locations
+
+**5. Store Operations:** Streamlines daily tasks like opening/closing procedures and reporting into a single dashboard.
 
 </details>
 
 <details>
-<summary><b>📈 Success Metrics & Business Impact</b></summary>
+<summary><b>📊 Success Metrics & Business Impact</b></summary>
 
-| Category | Metric / KPI | Legacy State | Result |
-| --- | --- | --- | --- |
-| **Adoption** | Global Footprint | Manual Tracking | **1,500+ Stores Optimized** |
-| **Scale** | User Base | Siloed Teams | **8,000+ Active End Users** |
-| **Revenue** | Omnichannel Mix | < 10% | **Shift to 50% DTC Sales Mix** |
+Total Countries: 12 (NA, Europe, APAC)
+Total Store Users: 3000+
+
+| Category | Metric / KPI | Legacy State | CREST Result |
+| :--- | :--- | :--- | :--- |
+| **User Adoption** | Daily Active Users (DAU) | ~40% (Fragmented) | **75%+ (Unified)** |
+| **Efficiency** | Checkout Speed | 5+ Minutes | **< 2 Minutes (2.5x Faster)** |
+| **Engagement** | Clienteling Outreach | Manual/Customer Service | **25% Increase in Reach** |
+| **Revenue** | DTC Growth (YoY) | Baseline | **+$1.5M Incremental** |
+| **Inventory** | Stock-out Recovery | High Loss Rate | **Optimized Quarterly** |
 
 </details>
 
