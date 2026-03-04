@@ -78,6 +78,7 @@ I am a product leader focused on bridging the gap between technical infrastructu
 
 ## Product Objective
 * Sustainable IT Operations with Hybrid Cloud and native environments through converting actionable optimization insights into executed actions
+<br />
 
 ## Problem Statements
 1. **Operationalizing FinOps**: From Insights to Actions
