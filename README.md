@@ -69,27 +69,32 @@ I am a product leader focused on bridging the gap between technical infrastructu
 ## Sr Product-Manager -- IBM Turbonomic Hybrid Cloud Resource and Cost Optimization (FinOps)
 
 <details>
-<summary><b>Click to view the Business Objective and Product Features</b></summary>
-<br>
+  <summary><b>Click to view the Business Objective and Product Features</b></summary>
+  <div style="padding-top: 20px;">
+    
+    <strong>Customer:</strong> Fortune 500 Companies, large to SMB Enterprise users<br><br>
 
-### Customer
-Fortune 500 Companies, large to SMB Enterprise users
+    <strong>Product Objective:</strong>
+    <ul>
+      <li><strong>Sustainable IT Operations:</strong> Converting actionable optimization insights into executed actions across Hybrid Cloud environments.</li>
+    </ul>
 
-### Product Objective
-* **Sustainable IT Operations:** Converting actionable optimization insights into executed actions across Hybrid Cloud environments.
+    <strong>Problem Statements:</strong>
+    <ol>
+      <li><strong>Operationalizing FinOps:</strong> Moving from "Insights" to "Actions."</li>
+      <li><strong>Performance vs. Cost:</strong> Balancing IT resource performance with budget compliance.</li>
+      <li><strong>Green IT:</strong> Managing cloud waste and reporting carbon emission reductions.</li>
+    </ol>
 
-### Problem Statements
-1. **Operationalizing FinOps:** Moving from "Insights" to "Actions."
-2. **Performance vs. Cost:** Balancing IT resource performance with budget compliance.
-3. **Green IT:** Managing cloud waste and reporting carbon emission reductions.
+    <strong>Key Features Delivered:</strong>
+    <ul>
+      <li><strong>Application-to-Infrastructure Supply Chain:</strong> Unified visibility for criticality-based decision making.</li>
+      <li><strong>Smart Parking:</strong> Dynamic power-state scheduling based on real-time utilization.</li>
+      <li><strong>AI/ML MVP:</strong> Unsupervised ML algorithms for automated resource management.</li>
+      <li><strong>Compute Optimization:</strong> GPU/CPU right-sizing tracked via Telemetry (Thoughtspot, Pendo).</li>
+    </ul>
 
-### Key Features Delivered
-* **Application-to-Infrastructure Supply Chain:** Unified visibility for criticality-based decision making.
-* **Smart Parking:** Dynamic power-state scheduling based on real-time utilization.
-* **AI/ML MVP:** Unsupervised ML algorithms for automated resource management.
-* **Compute Optimization:** GPU/CPU right-sizing tracked via Telemetry (Thoughtspot/Pendo).
-
-<br>
+  </div>
 </details>
 
 <details>
