@@ -58,6 +58,7 @@ I am a product leader focused on bridging the gap between technical infrastructu
 # Sr Product-Manager -- IBM Turbonomic Hybrid Cloud Resource and Cost Optimization (FinOps)
 
 <details>
+  
   <summary> <b>Click to view the Business Objective and Product Features</b></summary>
 
   ### Customer: Fortune 500 Companies, large to SMB Enterprise users
@@ -79,9 +80,11 @@ I am a product leader focused on bridging the gap between technical infrastructu
   **3. AI/ML MvP for resources scheduling:** Unsupervised Machine learning algorithm based resource power state management & scheduling recommendations
   
   **4. Cloud Compute resources optimization:** GPU and CPU utilization based resource right sizing actions recommendation, tracking the executed actions conversion using Telemetry tools (Thoughtspot, Pendo)
+
 </details>
 
 <details>
+  
   <summary><b>📊 Success Metrics & Business Impact</b></summary>
 
   Total Customers: ~500+ 
@@ -102,6 +105,7 @@ I am a product leader focused on bridging the gap between technical infrastructu
 # Product-Manager & Engagement Lead -- Customer Relationship and Engagement Software Tool (CREST)
 
 <details>
+  
   <summary> <b>Click to view the Business Objective and Product Features</b></summary>
 
   ### Customer: Global Manufacturing and Retail Business to Enterprise users & customers
@@ -125,12 +129,12 @@ I am a product leader focused on bridging the gap between technical infrastructu
   **4. Inventory & Catalog:** Provides real-time access to the full product catalog and stock levels across multiple locations
   
   **5. Store Operations:** Streamlines daily tasks like opening/closing procedures and reporting into a single dashboard.
+
 </details>
 
 <details>
-  <summary><b>📊 Success Metrics & Business Impact</b></summary>
-
   
+  <summary><b>📊 Success Metrics & Business Impact</b></summary>
 
   Total Countries: 12 (NA, Europe, APAC)
   Total Store Users: 3000+
@@ -151,6 +155,7 @@ I am a product leader focused on bridging the gap between technical infrastructu
 # Product Implementation Lead -- Retail & CG Point of Sale, CRM
 
 <details>
+  
   <summary> <b>Click to view the Business Objective and Product Features</b></summary>
 
   ### Customer: Global Duty Free retailer, Global Apparels Manufacturer and Retailer
@@ -174,12 +179,12 @@ I am a product leader focused on bridging the gap between technical infrastructu
   **4. Inventory & Catalog:** Provides real-time access to the full product catalog and stock levels across multiple locations
   
   **5. Store Operations:** Streamlines daily tasks like opening/closing procedures and reporting into a single dashboard.
+
 </details>
 
 <details>
-  <summary><b>📊 Success Metrics & Business Impact</b></summary>
-
   
+  <summary><b>📊 Success Metrics & Business Impact</b></summary>
 
   Total Countries: 12 (NA, Europe, APAC)
   Total Store Users: 3000+
@@ -191,7 +196,6 @@ I am a product leader focused on bridging the gap between technical infrastructu
   | **Engagement** | Clienteling Outreach | Manual/Customer Service | **25% Increase in Reach** |
   | **Revenue** | DTC Growth (YoY) | Baseline | **+$1.5M Incremental** |
   | **Inventory** | Stock-out Recovery | High Loss Rate | **Optimized Quarterly** |
-
 
 </details>
 
