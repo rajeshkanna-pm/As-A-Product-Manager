@@ -200,7 +200,6 @@ Total Store Users: 3000+
 | **Inventory** | Stock-out Recovery | High Loss Rate | **Optimized Quarterly** |
 
 </details>
-
 ---
 
 ## ✍️ Some Featured Product Blogs (IBM Turbonomic)
