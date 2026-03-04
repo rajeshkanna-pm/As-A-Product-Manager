@@ -74,6 +74,7 @@ I am a product leader focused on bridging the gap between technical infrastructu
 <br />
 
 ## Customer: Fortune 500 Companies, large to SMB Enterprise users
+<br />
 
 ## Product Objective
 * Sustainable IT Operations with Hybrid Cloud and native environments through converting actionable optimization insights into executed actions
