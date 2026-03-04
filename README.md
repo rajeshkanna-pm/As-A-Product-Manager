@@ -62,13 +62,14 @@ I am a product leader focused on bridging the gap between technical infrastructu
 * 💡 **Mentorship:** Passionate about coaching junior PMs on value-driven product management.
 
 ---
-# Detailed Portfolio - NEW
+# Detailed Portfolio
 
 # 2022-2025 
 # Sr Product-Manager -- IBM Turbonomic Hybrid Cloud Resource and Cost Optimization (FinOps)
 
 <details>
 <summary><b>Click to view the Business Objective and Product Features</b></summary>
+<br />
 
 ### Customer: Fortune 500 Companies, large to SMB Enterprise users
 
@@ -88,6 +89,7 @@ I am a product leader focused on bridging the gap between technical infrastructu
 **3. AI/ML MvP for resources scheduling:** Unsupervised Machine learning algorithm based resource power state management & scheduling recommendations
 
 **4. Cloud Compute resources optimization:** GPU and CPU utilization based resource right sizing actions recommendation, tracking the executed actions conversion using Telemetry tools (Thoughtspot, Pendo)
+
 </details>
 
 <details>
