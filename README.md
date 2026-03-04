@@ -12,6 +12,7 @@ I am a product leader focused on bridging the gap between technical infrastructu
 * **Strategic Impact:** Improved cloud cost efficiency by **35-45%** for Fortune 500 clients.
 * **Core Product:** Led the "Application-to-Infrastructure" supply chain view, Parking recommendations, automating resource decisions to ensure SLO compliance.
 * **Innovation:** Launched AI/ML-driven resource scheduling MVPs to automate cloud power states.
+* **Resources:** Mentoring Product Managers 
 
 ### **CREST (Cognizant)** | *Product Manager/Engagement Lead* (2019 – 2022)
 **Focus:** Customer Relationship & Retail Orchestration
@@ -38,8 +39,9 @@ I am a product leader focused on bridging the gap between technical infrastructu
 
 ## 🛠 Tech Stack
 * **Cloud & Infra:** AWS, Azure, GCP, Kubernetes (EKS/AKS)
-* **Product Tools:** JIRA, Confluence, Miro, Figma, Pendo, Thoughtspot
-* **Products:** Salesforce Service Cloud, Wincor, Aptos, Oracle POS, CRM, JDA Inventory, Safety Stock
+* **Domains:** Retail Store Ops, Order Management, Fulfillment & Supply Chain Integrations, FinOps
+* **Product Tools:** JIRA, Confluence, Jira, Monday, Sharepoint, Miro, Figma, Pendo, Thoughtspot
+* **Products:** Salesforce Service Cloud,Turbonomic, Wincor, Aptos, Oracle POS, CRM, JDA Inventory, Safety Stock
 * **Integrations:** SAP Retail, AS400, Oracle Retail, Order management & Fulfilment, Finance & Tax 
 
 ---
