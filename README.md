@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Rajesh Kanna
 
+### Senior Product Manager | Enterprise SaaS | FinOps | Retail Point of Sales, CRM & Large Scale Integrations
 ### Senior Product Manager 
 **Hybrid Cloud Optimization, Migration | FinOps | App Modernization | POS, CRM**
 
@@ -66,66 +67,61 @@ I am a product leader focused on bridging the gap between technical infrastructu
 # Detailed Portfolio
 
 # 2022-2025 
-## Sr Product-Manager -- IBM Turbonomic Hybrid Cloud Resource and Cost Optimization (FinOps)
+# Sr Product-Manager -- IBM Turbonomic Hybrid Cloud Resource and Cost Optimization (FinOps)
 
 <details>
-  <summary><b>Click to view the Business Objective and Product Features</b></summary>
-  <div style="padding-top: 20px;">
-    
-    <strong>Customer:</strong> Fortune 500 Companies, large to SMB Enterprise users<br><br>
+<summary><b>Click to view the Business Objective and Product Features</b></summary>
+<br />
 
-    <strong>Product Objective:</strong>
-    <ul>
-      <li><strong>Sustainable IT Operations:</strong> Converting actionable optimization insights into executed actions across Hybrid Cloud environments.</li>
-    </ul>
+### Customer: Fortune 500 Companies, large to SMB Enterprise users
 
-    <strong>Problem Statements:</strong>
-    <ol>
-      <li><strong>Operationalizing FinOps:</strong> Moving from "Insights" to "Actions."</li>
-      <li><strong>Performance vs. Cost:</strong> Balancing IT resource performance with budget compliance.</li>
-      <li><strong>Green IT:</strong> Managing cloud waste and reporting carbon emission reductions.</li>
-    </ol>
+### Product Objective
+* Sustainable IT Operations with Hybrid Cloud and native environments through converting actionable optimization insights into executed actions
 
-    <strong>Key Features Delivered:</strong>
-    <ul>
-      <li><strong>Application-to-Infrastructure Supply Chain:</strong> Unified visibility for criticality-based decision making.</li>
-      <li><strong>Smart Parking:</strong> Dynamic power-state scheduling based on real-time utilization.</li>
-      <li><strong>AI/ML MVP:</strong> Unsupervised ML algorithms for automated resource management.</li>
-      <li><strong>Compute Optimization:</strong> GPU/CPU right-sizing tracked via Telemetry (Thoughtspot, Pendo).</li>
-    </ul>
+### Problem Statements
+1. **Operationalizing FinOps**: From Insights to Actions
+2. **Availability, Performance and Compliance driven**: Balancing IT resource performance and cost
+3. **Sustainable IT**: Managing cloud waste, Reporting Carbon emissions spent & reductions
 
-  </div>
+### Features worked on
+**1. Application-to-Infrastructure" Supply Chain:** Discovering the Cloud and native environment targets and stitching them in the Supply chain view for better visibility & decision making by criticality
+
+**2. Smart Parking for Cloud Resources:** Dynamic schedules for managing the power state of cloud resources based on their utilization
+
+**3. AI/ML MvP for resources scheduling:** Unsupervised Machine learning algorithm based resource power state management & scheduling recommendations
+
+**4. Cloud Compute resources optimization:** GPU and CPU utilization based resource right sizing actions recommendation, tracking the executed actions conversion using Telemetry tools (Thoughtspot, Pendo)
+
 </details>
 
 <details>
-
 <summary><b>📊 Success Metrics & Business Impact</b></summary>
 <br />
 <table>
-  <tr>
-    <th>Category</th>
-    <th>Metric / KPI</th>
-    <th>Benchmark Result</th>
-    <th>Business Impact</th>
-  </tr>
-  <tr>
-    <td><b>Revenue</b></td>
-    <td>Total ROI</td>
-    <td>~247% since 2022</td>
-    <td><b>3x times cost saving from initial investment</b></td>
-  </tr>
-  <tr>
-    <td><b>Cost Savings</b></td>
-    <td>Cloud Cost Reduction</td>
-    <td>25%</td>
-    <td><b>~35-45% avg savings from Direct Cloud bill</b></td>
-  </tr>
-  <tr>
-    <td><b>Engagement</b></td>
-    <td>Action Convertion</td>
-    <td>5% Increase YoY</td>
-    <td><b>~3% executed actions from actionable insights</b></td>
-  </tr>
+<tr>
+<th>Category</th>
+<th>Metric / KPI</th>
+<th>Benchmark Result</th>
+<th>Business Impact</th>
+</tr>
+<tr>
+<td><b>Revenue</b></td>
+<td>Total ROI</td>
+<td>~247% since 2022</td>
+<td><b>3x times cost saving from initial investment</b></td>
+</tr>
+<tr>
+<td><b>Cost Savings</b></td>
+<td>Cloud Cost Reduction</td>
+<td>25%</td>
+<td><b>~35-45% avg savings from Direct Cloud bill</b></td>
+</tr>
+<tr>
+<td><b>Engagement</b></td>
+<td>Action Convertion</td>
+<td>5% Increase YoY</td>
+<td><b>~3% executed actions from actionable insights</b></td>
+</tr>
 </table>
 </details>
 
@@ -166,42 +162,42 @@ Deckers developed CREST to solve three main pain points:
 <summary><b>📊 Success Metrics & Business Impact</b></summary>
 <br />
 <table>
-  <tr>
-    <th>Category</th>
-    <th>Metric / KPI</th>
-    <th>Legacy State</th>
-    <th>CREST Result</th>
-  </tr>
-  <tr>
-    <td><b>User Adoption</b></td>
-    <td>Daily Active Users (DAU)</td>
-    <td>~40% (Fragmented)</td>
-    <td><b>75%+ (Unified)</b></td>
-  </tr>
-  <tr>
-    <td><b>Efficiency</b></td>
-    <td>Checkout Speed</td>
-    <td>5+ Minutes</td>
-    <td><b>< 2 Minutes (2.5x Faster)</b></td>
-  </tr>
-  <tr>
-    <td><b>Engagement</b></td>
-    <td>Clienteling Outreach</td>
-    <td>Manual/Customer Service</td>
-    <td><b>25% Increase in Reach</b></td>
-  </tr>
-  <tr>
-    <td><b>Revenue</b></td>
-    <td>DTC Growth (YoY)</td>
-    <td>Baseline</td>
-    <td><b>+$1.5M Incremental</b></td>
-  </tr>
-  <tr>
-    <td><b>Inventory</b></td>
-    <td>Stock-out Recovery</td>
-    <td>High Loss Rate</td>
-    <td><b>Optimized Quarterly</b></td>
-  </tr>
+<tr>
+<th>Category</th>
+<th>Metric / KPI</th>
+<th>Legacy State</th>
+<th>CREST Result</th>
+</tr>
+<tr>
+<td><b>User Adoption</b></td>
+<td>Daily Active Users (DAU)</td>
+<td>~40% (Fragmented)</td>
+<td><b>75%+ (Unified)</b></td>
+</tr>
+<tr>
+<td><b>Efficiency</b></td>
+<td>Checkout Speed</td>
+<td>5+ Minutes</td>
+<td><b>< 2 Minutes (2.5x Faster)</b></td>
+</tr>
+<tr>
+<td><b>Engagement</b></td>
+<td>Clienteling Outreach</td>
+<td>Manual/Customer Service</td>
+<td><b>25% Increase in Reach</b></td>
+</tr>
+<tr>
+<td><b>Revenue</b></td>
+<td>DTC Growth (YoY)</td>
+<td>Baseline</td>
+<td><b>+$1.5M Incremental</b></td>
+</tr>
+<tr>
+<td><b>Inventory</b></td>
+<td>Stock-out Recovery</td>
+<td>High Loss Rate</td>
+<td><b>Optimized Quarterly</b></td>
+</tr>
 </table>
 </details>
 ---
