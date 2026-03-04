@@ -62,7 +62,7 @@ I am a product leader focused on bridging the gap between technical infrastructu
 * 💡 **Mentorship:** Passionate about coaching junior PMs on value-driven product management.
 
 ---
-# Detailed Portfolio
+# Detailed Portfolio - NEW
 
 # 2022-2025 
 # Sr Product-Manager -- IBM Turbonomic Hybrid Cloud Resource and Cost Optimization (FinOps)
@@ -88,16 +88,38 @@ I am a product leader focused on bridging the gap between technical infrastructu
 **3. AI/ML MvP for resources scheduling:** Unsupervised Machine learning algorithm based resource power state management & scheduling recommendations
 
 **4. Cloud Compute resources optimization:** GPU and CPU utilization based resource right sizing actions recommendation, tracking the executed actions conversion using Telemetry tools (Thoughtspot, Pendo)
-
 </details>
 
+<details>
+<summary><b>📊 Success Metrics & Business Impact</b></summary>
 <br />
-
-| Category | Metric / KPI | Benchmark Result | Business Impact |
-| :--- | :--- | :--- | :--- |
-| **Revenue** | Total ROI | ~247% since 2022 | **3x times cost saving from initial investment** |
-| **Cost Savings** | Cloud Cost Reduction | 25% | **~35-45% avg savings from Direct Cloud bill** |
-| **Engagement** | Action Convertion | 5% Increase YoY | **~3% executed actions from actionable insights** |
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Metric / KPI</th>
+    <th>Benchmark Result</th>
+    <th>Business Impact</th>
+  </tr>
+  <tr>
+    <td><b>Revenue</b></td>
+    <td>Total ROI</td>
+    <td>~247% since 2022</td>
+    <td><b>3x times cost saving from initial investment</b></td>
+  </tr>
+  <tr>
+    <td><b>Cost Savings</b></td>
+    <td>Cloud Cost Reduction</td>
+    <td>25%</td>
+    <td><b>~35-45% avg savings from Direct Cloud bill</b></td>
+  </tr>
+  <tr>
+    <td><b>Engagement</b></td>
+    <td>Action Convertion</td>
+    <td>5% Increase YoY</td>
+    <td><b>~3% executed actions from actionable insights</b></td>
+  </tr>
+</table>
+</details>
 
 <br />
 
@@ -130,63 +152,50 @@ Deckers developed CREST to solve three main pain points:
 **4. Inventory & Catalog:** Provides real-time access to the full product catalog and stock levels across multiple locations
 
 **5. Store Operations:** Streamlines daily tasks like opening/closing procedures and reporting into a single dashboard.
-
 </details>
-
-<br />
-
-| Category | Metric / KPI | Legacy State | CREST Result |
-| :--- | :--- | :--- | :--- |
-| **User Adoption** | Daily Active Users (DAU) | ~40% (Fragmented) | **75%+ (Unified)** |
-| **Efficiency** | Checkout Speed | 5+ Minutes | **< 2 Minutes (2.5x Faster)** |
-| **Engagement** | Clienteling Outreach | Manual/Customer Service | **25% Increase in Reach** |
-| **Revenue** | DTC Growth (YoY) | Baseline | **+$1.5M Incremental** |
-| **Inventory** | Stock-out Recovery | High Loss Rate | **Optimized Quarterly** |
-
-<br />
-
-****************************************************************************************************************
-
-# 2013 - 2018
-# Product Implementation Lead -- Retail & CG Point of Sale, CRM
 
 <details>
-<summary><b>Click to view the Business Objective and Product Features</b></summary>
-
-### Customer: Global Duty Free retailer, Global Apparels Manufacturer and Retailer
-
-### Product Objective
-Retail Stores and Operations Digital Modernization with POS, CRM Implementation with Microservices based System Integrations
-
-### Problem Statements
-Deckers developed CREST to solve three main pain points:
-1. Complexity: Reducing the number of different apps a store clerk needs to learn.
-2. Customer Experience: Moving the "transaction" away from a stationary desk and making it part of a fluid conversation on the floor.
-3. Data Synergy: Ensuring that an "online" customer is recognized the moment they walk into a "physical" store
-
-### Features worked on
-**1. Customer Relationship Management (CRM):** Allows store associates to access customer profiles, purchase history, and loyalty data to provide personalized service
-
-**2. Omnichannel Engagement:** Facilitates "Clienteling" (personalized messaging between associates and customers) to drive loyalty and repeat visits
-
-**3. Point of Sale (POS) & Checkout:** A mobile-first checkout system that allows employees to process transactions anywhere on the sales floor
-
-**4. Inventory & Catalog:** Provides real-time access to the full product catalog and stock levels across multiple locations
-
-**5. Store Operations:** Streamlines daily tasks like opening/closing procedures and reporting into a single dashboard.
-
-</details>
-
+<summary><b>📊 Success Metrics & Business Impact</b></summary>
 <br />
-
-| Category | Metric / KPI | Legacy State | CREST Result |
-| :--- | :--- | :--- | :--- |
-| **User Adoption** | Daily Active Users (DAU) | ~40% (Fragmented) | **75%+ (Unified)** |
-| **Efficiency** | Checkout Speed | 5+ Minutes | **< 2 Minutes (2.5x Faster)** |
-| **Engagement** | Clienteling Outreach | Manual/Customer Service | **25% Increase in Reach** |
-| **Revenue** | DTC Growth (YoY) | Baseline | **+$1.5M Incremental** |
-| **Inventory** | Stock-out Recovery | High Loss Rate | **Optimized Quarterly** |
-
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Metric / KPI</th>
+    <th>Legacy State</th>
+    <th>CREST Result</th>
+  </tr>
+  <tr>
+    <td><b>User Adoption</b></td>
+    <td>Daily Active Users (DAU)</td>
+    <td>~40% (Fragmented)</td>
+    <td><b>75%+ (Unified)</b></td>
+  </tr>
+  <tr>
+    <td><b>Efficiency</b></td>
+    <td>Checkout Speed</td>
+    <td>5+ Minutes</td>
+    <td><b>< 2 Minutes (2.5x Faster)</b></td>
+  </tr>
+  <tr>
+    <td><b>Engagement</b></td>
+    <td>Clienteling Outreach</td>
+    <td>Manual/Customer Service</td>
+    <td><b>25% Increase in Reach</b></td>
+  </tr>
+  <tr>
+    <td><b>Revenue</b></td>
+    <td>DTC Growth (YoY)</td>
+    <td>Baseline</td>
+    <td><b>+$1.5M Incremental</b></td>
+  </tr>
+  <tr>
+    <td><b>Inventory</b></td>
+    <td>Stock-out Recovery</td>
+    <td>High Loss Rate</td>
+    <td><b>Optimized Quarterly</b></td>
+  </tr>
+</table>
+</details>
 ---
 
 ## ✍️ Some Featured Product Blogs (IBM Turbonomic)
