@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Rajesh Kanna
 
-### Senior Product Manager | Enterprise SaaS | FinOps | Retail Point of Sales, CRM & Large Scale Integrations
+### Senior Product Manager 
+**Hybrid Cloud Optimization, Migration | FinOps | App Modernization | POS, CRM**
 
 I am a product leader focused on bridging the gap between technical infrastructure and business value. My expertise lies in building systems that balance performance, cost, and user experience at scale.
 
