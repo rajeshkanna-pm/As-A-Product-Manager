@@ -70,8 +70,10 @@ I am a product leader focused on bridging the gap between technical infrastructu
 
 <details>
 <summary><b>Click to view the Business Objective and Product Features</b></summary>
+<br>
 
-### Customer: Fortune 500 Companies, large to SMB Enterprise users
+### Customer
+Fortune 500 Companies, large to SMB Enterprise users
 
 ### Product Objective
 * **Sustainable IT Operations:** Converting actionable optimization insights into executed actions across Hybrid Cloud environments.
@@ -87,6 +89,7 @@ I am a product leader focused on bridging the gap between technical infrastructu
 * **AI/ML MVP:** Unsupervised ML algorithms for automated resource management.
 * **Compute Optimization:** GPU/CPU right-sizing tracked via Telemetry (Thoughtspot/Pendo).
 
+<br>
 </details>
 
 <details>
