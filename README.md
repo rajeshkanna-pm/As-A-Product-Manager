@@ -69,6 +69,7 @@ I am a product leader focused on bridging the gap between technical infrastructu
 # Sr Product-Manager -- IBM Turbonomic Hybrid Cloud Resource and Cost Optimization (FinOps)
 
 <details>
+
 <summary><b>Click to view the Business Objective and Product Features</b></summary>
 <br />
 
@@ -94,6 +95,7 @@ I am a product leader focused on bridging the gap between technical infrastructu
 </details>
 
 <details>
+
 <summary><b>📊 Success Metrics & Business Impact</b></summary>
 <br />
 <table>
