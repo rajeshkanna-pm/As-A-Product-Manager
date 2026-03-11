@@ -56,6 +56,7 @@ I am a product leader focused on bridging the gap between technical infrastructu
 * **Release Management:** CI/CD DevOps in AWS, Azure, Git Hub
 * **Integrations:** SAP Retail, AS400, Oracle Retail, Order Management & Fulfillment, WMS, Finance & Tax.
 * **Data & Analytics:** Pendo, Thoughtspot, Tableau
+* **AI/ML:** Gen AI (ChatGPT, Gemini), Copilot (Release and Code review), Unsupervised ML
 
 ---
 
