@@ -67,7 +67,7 @@ I am a product leader focused on bridging the gap between technical infrastructu
 * 💡 **Mentorship:** Passionate about coaching junior PMs on value-driven product management.
 
 ---
-# Detailed Portfolio
+# Product Manager Portfolio
 
 # 2022-2025 
 # Sr Product-Manager -- IBM Turbonomic Hybrid Cloud Resource and Cost Optimization (FinOps)
