@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rajesh Kanna
 
-### Senior Product Manager 
+### Senior Tech Product Manager | Tech Project Manager | Client Engagement Lead
 
 **Hybrid Cloud Optimization, Migration | FinOps | App Modernization |Digital, POS, CRM, Supply Chain**
 
