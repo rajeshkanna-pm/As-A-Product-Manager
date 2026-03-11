@@ -62,8 +62,8 @@ I am a product leader focused on bridging the gap between technical infrastructu
 
 ## 📈 Current Focus
 
-* 🤖 **Agentic AI:** Exploring how autonomous AI agents can manage cloud infrastructure.
-* 🌿 **Sustainable IT:** Developing metrics to track and reduce carbon emissions in data center operations.
+* 🤖 **Agentic AI:** Exploring how autonomous AI agents can manage cloud infrastructure, Data Driven Insights
+* 🌿 **Sustainable IT:** Developing metrics to track and reduce carbon emissions in IT Infra & operations.
 * 💡 **Mentorship:** Passionate about coaching junior PMs on value-driven product management.
 
 ---
