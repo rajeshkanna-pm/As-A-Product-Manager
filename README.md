@@ -51,9 +51,11 @@ I am a product leader focused on bridging the gap between technical infrastructu
 
 * **Cloud & Infra:** AWS, Azure, GCP, Kubernetes (EKS/AKS).
 * **Domains:** Retail Store Ops, Order Management, Fulfillment & Supply Chain Integrations, FinOps.
-* **Product Tools:** JIRA, Confluence, Monday, Sharepoint, Miro, Figma, Pendo, Thoughtspot.
-* **Products:** Salesforce Service Cloud, Turbonomic, Wincor, Aptos, Oracle POS, CRM, JDA Inventory, Safety Stock.
-* **Integrations:** SAP Retail, AS400, Oracle Retail, Order Management & Fulfillment, Finance & Tax.
+* **Product Tools:** JIRA, Confluence, Monday, Sharepoint, Miro, Figma.
+* **Products:** Salesforce Service Cloud, Turbonomic, Point of Sales Wincor, Aptos, Oracle POS, CRM, JDA Inventory, Safety Stock.
+* **Release Management:** CI/CD DevOps in AWS, Azure, Git Hub
+* **Integrations:** SAP Retail, AS400, Oracle Retail, Order Management & Fulfillment, WMS, Finance & Tax.
+* **Data & Analytics:** Pendo, Thoughtspot, Tableau
 
 ---
 
