@@ -73,30 +73,23 @@ I am a product leader focused on bridging the gap between technical infrastructu
 # Sr Product-Manager -- IBM Turbonomic Hybrid Cloud Resource and Cost Optimization (FinOps)
 
 <details>
-<summary><b>Click to view the Business Objective and Product Features</b></summary>
-<br />
-
-## Customer: Fortune 500 Companies, large to SMB Enterprise users
-<br />
-
-## Product Objective
-* Sustainable IT Operations with Hybrid Cloud and native environments through converting actionable optimization insights into executed actions
-<br />
-
-## Problem Statements
-1. **Operationalizing FinOps**: From Insights to Actions
-2. **Availability, Performance and Compliance driven**: Balancing IT resource performance and cost
-3. **Sustainable IT**: Managing cloud waste, Reporting Carbon emissions spent & reductions
-
-## Features worked on
-**1. Application-to-Infrastructure Supply Chain:** Discovering the Cloud and native environment targets and stitching them in the Supply chain view for better visibility & decision making by criticality
-
-**2. Smart Parking for Cloud Resources:** Dynamic schedules for managing the power state of cloud resources based on their utilization
-
-**3. AI/ML MvP for resources scheduling:** Unsupervised Machine learning algorithm based resource power state management & scheduling recommendations
-
-**4. Cloud Compute resources optimization:** GPU and CPU utilization based resource right sizing actions recommendation, tracking the executed actions conversion using Telemetry tools (Thoughtspot, Pendo)
-
+  <summary><b>Click to view the Business Objective and Product Features</b></summary>
+  <br>
+  <p><b>Customer:</b> Fortune 500 Companies, large to SMB Enterprise users</p>
+  <p><b>Product Objective:</b> Sustainable IT Operations with Hybrid Cloud and native environments through converting actionable optimization insights into executed actions.</p>
+  <p><b>Problem Statements:</b></p>
+  <ul>
+    <li><b>Operationalizing FinOps:</b> Moving from insights to actions.</li>
+    <li><b>Performance & Compliance:</b> Balancing IT resource performance and cost.</li>
+    <li><b>Sustainable IT:</b> Managing cloud waste and reporting carbon emissions.</li>
+  </ul>
+  <p><b>Features Worked On:</b></p>
+  <ul>
+    <li><b>App-to-Infra Supply Chain:</b> Discovering targets and stitching them into a Supply Chain view.</li>
+    <li><b>Smart Parking:</b> Dynamic schedules for managing cloud power states based on utilization.</li>
+    <li><b>AI/ML MVP:</b> Unsupervised ML algorithms for resource scheduling.</li>
+    <li><b>Compute Optimization:</b> GPU/CPU right-sizing tracked via ThoughtSpot and Pendo.</li>
+  </ul>
 </details>
 
 <details>
