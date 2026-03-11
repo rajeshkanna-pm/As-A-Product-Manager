@@ -31,7 +31,7 @@ I am a product leader focused on bridging the gap between technical infrastructu
 
 **Focus:** Retail, Manufacturing, Store Operations, Supply Chain Integration
 
-* **Strategic Impact:** Global Product Implementation (POS, CRM) across **1,500+ retail stores** with multiple POS products.
+* **Strategic Impact:** Global Product Implementation (POS, CRM) across **1,500+ retail stores** with multiple POS products (Aptos, Wincor-Nixdorf, SAP POS), Self Service Kiosk (iOS Based) solutions
 * **Core Product:** Delivered complex system integrations along with Enterprise POS and CRM implementations scoped for 8,000+ end users.
 * **Efficiency:** Digital modernization to improve operational efficiency, customer experience, and future-ready technology platforms.
 
