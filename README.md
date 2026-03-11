@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Rajesh Kanna
 
-### Senior Product Manager | Enterprise SaaS | FinOps | Retail Point of Sales, CRM & Large Scale Integrations
 ### Senior Product Manager 
-**Hybrid Cloud Optimization, Migration | FinOps | App Modernization | POS, CRM**
+
+**Hybrid Cloud Optimization, Migration | FinOps | App Modernization |Digital, POS, CRM, Supply Chain**
 
 I am a product leader focused on bridging the gap between technical infrastructure and business value. My expertise lies in building systems that balance performance, cost, and user experience at scale.
 
@@ -23,13 +23,13 @@ I am a product leader focused on bridging the gap between technical infrastructu
 
 **Focus:** Customer Relationship & Retail Orchestration
 
-* **Strategic Impact:** Enabled a **$1.5M YoY DTC revenue increase** by unifying fragmented retail software.
+* **Strategic Impact:** Enabled a **$1.5M YoY DTC revenue increase** by unifying fragmented retail product/platform.
 * **Core Product:** Delivered a mobile-first "Endless Aisle" and POS solution used by 3,000+ global store associates.
 * **Efficiency:** Reduced checkout times by **2.5x**, untethering associates from traditional stationary desks.
 
 ### **POS, CRM (Cognizant)** | *Product Implementation Lead* (2012 – 2019)
 
-**Focus:** Retail, Manufacturing, and Store Operations
+**Focus:** Retail, Manufacturing, Store Operations, Supply Chain Integration
 
 * **Strategic Impact:** Global Product Implementation (POS, CRM) across **1,500+ retail stores** with multiple POS products.
 * **Core Product:** Delivered complex system integrations along with Enterprise POS and CRM implementations scoped for 8,000+ end users.
