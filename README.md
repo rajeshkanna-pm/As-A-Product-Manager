@@ -2,7 +2,7 @@
 
 ### Senior Tech Product Manager | Tech Project Manager | Client Engagement Lead
 
-**Hybrid Cloud Optimization, Migration | FinOps | App Modernization |Digital, POS, CRM, Supply Chain**
+###Hybrid Cloud Optimization, Migration | FinOps | App Modernization |Digital, POS, CRM, Supply Chain
 
 I am a product leader focused on bridging the gap between technical infrastructure and business value. My expertise lies in building systems that balance performance, cost, and user experience at scale.
 
