@@ -212,7 +212,6 @@ Deckers developed CREST to solve three main pain points:
 * [RBAC Expansion for Scalability](https://community.ibm.com/community/user/blogs/rajesh-kanna/2025/05/13/rbac-for-turbonomic-parking-expansion-of-roles)
 * [React/IBM Carbon UX Migration](https://community.ibm.com/community/user/blogs/rajesh-kanna/2025/04/02/parking-policies-ibm-carbon)
 
-> **Note:** For a full interactive browser experience with high-fidelity visuals, please visit the [Live Portfolio](https://www.google.com/search?q=https://rajeshkanna-pm.github.io/As-A-Product-Manager/).
 
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajesh-kanna/)
