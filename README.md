@@ -131,29 +131,23 @@ I am a product leader focused on bridging the gap between technical infrastructu
 # Product-Manager & Engagement Lead -- Customer Relationship and Engagement Software Tool (CREST)
 
 <details>
-<summary><b>Click to view the Business Objective and Product Features</b></summary>
-
-### Customer: Global Manufacturing and Retail Business to Enterprise users & customers
-
-### Product Objective
-CREST to serve as an all-in-one retail orchestration platform. Design to replace fragmented thirdparty software with a single, mobile-first interface for store associates
-
-### Problem Statements
-Deckers developed CREST to solve three main pain points:
-1. Complexity: Reducing the number of different apps a store clerk needs to learn.
-2. Customer Experience: Moving the "transaction" away from a stationary desk and making it part of a fluid conversation on the floor.
-3. Data Synergy: Ensuring that an "online" customer is recognized the moment they walk into a "physical" store
-
-### Features worked on
-**1. Customer Relationship Management (CRM):** Allows store associates to access customer profiles, purchase history, and loyalty data to provide personalized service
-
-**2. Omnichannel Engagement:** Facilitates "Clienteling" (personalized messaging between associates and customers) to drive loyalty and repeat visits
-
-**3. Point of Sale (POS) & Checkout:** A mobile-first checkout system that allows employees to process transactions anywhere on the sales floor
-
-**4. Inventory & Catalog:** Provides real-time access to the full product catalog and stock levels across multiple locations
-
-**5. Store Operations:** Streamlines daily tasks like opening/closing procedures and reporting into a single dashboard.
+  <summary><b>Click to view the Business Objective and Product Features</b></summary>
+  <br>
+  <p><b>Customer:</b> Global Manufacturing and Retail B2E users & customers</p>
+  <p><b>Product Objective:</b> An all-in-one retail orchestration platform replacing fragmented third-party software with a mobile-first interface.</p>
+  <p><b>Problem Statements:</b></p>
+  <ul>
+    <li><b>Complexity:</b> Reducing the number of apps store clerks need to learn.</li>
+    <li><b>Customer Experience:</b> Moving transactions away from stationary desks.</li>
+    <li><b>Data Synergy:</b> Instant recognition of "online" customers in-store.</li>
+  </ul>
+  <p><b>Features Worked On:</b></p>
+  <ul>
+    <li><b>CRM:</b> Access to purchase history and loyalty data for personalized service.</li>
+    <li><b>Omnichannel:</b> Facilitating "Clienteling" to drive repeat visits.</li>
+    <li><b>Mobile POS:</b> Processing transactions anywhere on the sales floor.</li>
+    <li><b>Inventory:</b> Real-time access to catalog and stock across multiple locations.</li>
+  </ul>
 </details>
 
 <details>
